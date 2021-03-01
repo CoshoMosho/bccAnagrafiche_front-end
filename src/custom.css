@@ -1,0 +1,59 @@
+.ReactModal__Content {
+  width: max-content;
+  margin: auto;
+}
+.ReactModal__Content--after-open {
+  width: max-content;
+  margin: auto;
+} /*
+.ReactModal__Overlay {
+  background-color: grey;
+} */
+#h11 {
+  text-align: center;
+}
+.nav-link {
+  text-decoration: black;
+}
+#userName {
+  text-transform: capitalize;
+  font-size: larger;
+}
+/*
+#buttoncerca {
+  text-align: center;
+}*/
+#datePicker {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+/*
+.jumbotron {
+  color: #bbc77f;
+}*/
+.react-datepicker-ignore-onclickoutside {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
